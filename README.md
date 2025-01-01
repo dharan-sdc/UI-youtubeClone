@@ -88,12 +88,22 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Screenshots
 
 Desktop View: 🖥️ 
+
 ![image](https://github.com/user-attachments/assets/7d5942ed-3535-4d26-af87-7a62540327b6)
 
+
+
 Mobile View: 📱 
+
+
 ![image](https://github.com/user-attachments/assets/9940e0e1-6472-4c86-b473-07bb874f2322)
 
+
+
 Shorts Section: 🎥 
+
+
+
 ![image](https://github.com/user-attachments/assets/fcb64d28-ad33-4605-8e3e-8167aa1c4809)
 
 

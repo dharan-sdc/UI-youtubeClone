@@ -2,6 +2,9 @@
 
 A responsive YouTube clone webpage with essential features, including a shorts section similar to YouTube. This project demonstrates the use of modern web development techniques to create a functional, interactive, and visually appealing user interface.
 
+Project Link : https://dharan-sdc.github.io/UI-youtubeClone/ 
+Click here to view
+
 Features
 
 Core Features:
